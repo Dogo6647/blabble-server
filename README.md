@@ -21,7 +21,7 @@ npm install
 npm start
 ```
 
-By default the server is listening on ws://localhost:8148/ (BLAB in 1337speak). To change the port or enable wss://, read below.
+By default the server is listening on ws://localhost:8148/ (BLAB in 1337speak). To change the port, read below.
 
 You can change the target server URL for your custom Blabble client in the TurboWarp Packager settings.
 
