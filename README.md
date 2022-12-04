@@ -1,4 +1,4 @@
-# cloud-server
+# Blabble Server
 
 A cloud data server for Scratch 3.0, configured and optimized for Blabble.
 
