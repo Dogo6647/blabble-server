@@ -4,6 +4,10 @@ A cloud data server for Scratch 3.0, configured and optimized for Blabble.
 
 It uses a protocol very similar to Scratch 3's cloud variable protocol. See doc/protocol.md for further details.
 
+## IMPORTANT
+
+No being sussy baka or you will b baned from our blalbbe server for sus reason so be very very nice and no sussy at all.
+
 ## Restrictions
 
 This server does not implement long term variable storage. All data is stored only in memory (never on disk) and are removed promptly when rooms are emptied or the server restarts.
